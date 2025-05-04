@@ -1,0 +1,5 @@
+title: "Video Game News Bot"
+description: "Automated daily video game news updates"
+baseurl: ""
+url: "https://NextGenNews.github.io"
+theme: minima
